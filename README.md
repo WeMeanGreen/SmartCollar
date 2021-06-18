@@ -47,7 +47,6 @@ The real problem here is the lack of information about state of wildlife where p
 - **Real Time Weather (ML)** : We are fetching the real time weather of the animal's current location and make predictions about if the habitat is suited for that animal and how long that animal could survive in those climatic habitat.
 - **Real time monitoring** : An application platform to monitor the live locations and dangers associated with the animals and notify authorities to take appropriate plan of action well within time when an animal is spotted in danger.
 - **Social Platform** : A social platform to engage users to inform them about the endangered species using the data collected , spread awareness and promote them in helping to save Life on Land.
-- **Voice Recognition Model** : We are collecting real time voice of the animals and running it over our voice recognition models and predict the chances of it being under threat.
 
 ### How our product is better than exisitng solutions?
 
