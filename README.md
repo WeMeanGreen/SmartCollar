@@ -1,6 +1,20 @@
-# WeMeanGreen
-# (Smart Collar, Save the Wildlife)
+# Smart Collar, Save the Wildlife
 
+## Contents
+- [Smart Collar, Save the Wildlife](#submission-or-project-name)
+    - [Contents](#contents)
+    - [Short description](#short-description)
+  - [Demo video](#demo-video)
+  - [The Architecture](#the-architecture)
+  - [Long description](#long-description)
+    - [What's the problem?](#whats-the-problem)
+    - [How can technology help?](#how-can-technology-help)
+    - [How our product is better than exisitng solutions?](#how-our-product-is-better-than-exisitng-solutions)
+  - [Project roadmap](#project-roadmap)
+  - [Github Code Repositories](#github-code-repositories)
+  - [Local Application Setup](#local-application-setup)
+  - [Built with](#built-with)
+ 
 ## Short description
 
 Sustainable future of our ecosystem , preserving wildlife and natural habitats.
@@ -25,10 +39,6 @@ Sustainable future of our ecosystem , preserving wildlife and natural habitats.
 ### What's the problem?
 
 The real problem here is the lack of information about state of wildlife where people aren't actively engaged to keep it sustainable. Around 1 million animals are threatened with extinction. It is found that health of ecosystems on which we and all other species depends is deteriorating more rapidly than ever. When a species becomes endangered, it is a sign that the ecosystem is slowly falling apart. The responsibility to keep these innocents life shouldn't just be on the shoulders of a few. Having such an engaging audience could improve impact, awareness and accelerate the drive towards sustainability.
-
-### The idea
-
-The idea is to build a technologically rich system to monitor the endangered species in real time and to spread awareness among people to save life on land. The system would be utilizing following with multifold solution.
 
 ### How can technology help?
 
